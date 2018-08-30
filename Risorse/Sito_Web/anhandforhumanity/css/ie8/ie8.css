@@ -1,0 +1,18 @@
+.content ul li span.roundedBdr {
+	behavior: url(css/ie8/PIE.htc);
+	position: relative;
+	z-index: 99;
+	border-radius: 100%;
+}
+a.roundBtn {
+	border-radius: 25px;
+	z-index: 99;
+	behavior: url(css/ie8/PIE.htc);
+	position: relative;
+}
+.borderThumb {
+	box-shadow: 1px 1px 6px #eaeaea;
+	z-index: 99;
+	behavior: url(css/ie8/PIE.htc);
+	position: relative;
+}
